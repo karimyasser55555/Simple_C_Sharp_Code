@@ -1,0 +1,16 @@
+D:\ITI\Object-Oriented Programming (OOP)\Task\Task 1\bin\Debug\net5.0\Task 1.exe
+D:\ITI\Object-Oriented Programming (OOP)\Task\Task 1\bin\Debug\net5.0\Task 1.deps.json
+D:\ITI\Object-Oriented Programming (OOP)\Task\Task 1\bin\Debug\net5.0\Task 1.runtimeconfig.json
+D:\ITI\Object-Oriented Programming (OOP)\Task\Task 1\bin\Debug\net5.0\Task 1.runtimeconfig.dev.json
+D:\ITI\Object-Oriented Programming (OOP)\Task\Task 1\bin\Debug\net5.0\Task 1.dll
+D:\ITI\Object-Oriented Programming (OOP)\Task\Task 1\bin\Debug\net5.0\Task 1.pdb
+D:\ITI\Object-Oriented Programming (OOP)\Task\Task 1\obj\Debug\net5.0\Task 1.GeneratedMSBuildEditorConfig.editorconfig
+D:\ITI\Object-Oriented Programming (OOP)\Task\Task 1\obj\Debug\net5.0\Task 1.AssemblyInfoInputs.cache
+D:\ITI\Object-Oriented Programming (OOP)\Task\Task 1\obj\Debug\net5.0\Task 1.AssemblyInfo.cs
+D:\ITI\Object-Oriented Programming (OOP)\Task\Task 1\obj\Debug\net5.0\Task 1.csproj.CoreCompileInputs.cache
+D:\ITI\Object-Oriented Programming (OOP)\Task\Task 1\obj\Debug\net5.0\Task 1.dll
+D:\ITI\Object-Oriented Programming (OOP)\Task\Task 1\obj\Debug\net5.0\ref\Task 1.dll
+D:\ITI\Object-Oriented Programming (OOP)\Task\Task 1\obj\Debug\net5.0\Task 1.pdb
+D:\ITI\Object-Oriented Programming (OOP)\Task\Task 1\obj\Debug\net5.0\Task 1.genruntimeconfig.cache
+D:\ITI\Object-Oriented Programming (OOP)\Task\Task 1\obj\Debug\net5.0\Task 1.csproj.AssemblyReference.cache
+D:\ITI\Object-Oriented Programming (OOP)\Task\Task 1\obj\Debug\net5.0\refint\Task 1.dll
