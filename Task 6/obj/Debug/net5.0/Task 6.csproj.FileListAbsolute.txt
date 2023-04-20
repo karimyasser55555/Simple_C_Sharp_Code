@@ -1,0 +1,16 @@
+D:\ITI\Object-Oriented Programming (OOP)\Task\Task 6\obj\Debug\net5.0\Task 6.csproj.AssemblyReference.cache
+D:\ITI\Object-Oriented Programming (OOP)\Task\Task 6\obj\Debug\net5.0\Task 6.GeneratedMSBuildEditorConfig.editorconfig
+D:\ITI\Object-Oriented Programming (OOP)\Task\Task 6\obj\Debug\net5.0\Task 6.AssemblyInfoInputs.cache
+D:\ITI\Object-Oriented Programming (OOP)\Task\Task 6\obj\Debug\net5.0\Task 6.AssemblyInfo.cs
+D:\ITI\Object-Oriented Programming (OOP)\Task\Task 6\obj\Debug\net5.0\Task 6.csproj.CoreCompileInputs.cache
+D:\ITI\Object-Oriented Programming (OOP)\Task\Task 6\bin\Debug\net5.0\Task 6.exe
+D:\ITI\Object-Oriented Programming (OOP)\Task\Task 6\bin\Debug\net5.0\Task 6.deps.json
+D:\ITI\Object-Oriented Programming (OOP)\Task\Task 6\bin\Debug\net5.0\Task 6.runtimeconfig.json
+D:\ITI\Object-Oriented Programming (OOP)\Task\Task 6\bin\Debug\net5.0\Task 6.runtimeconfig.dev.json
+D:\ITI\Object-Oriented Programming (OOP)\Task\Task 6\bin\Debug\net5.0\Task 6.dll
+D:\ITI\Object-Oriented Programming (OOP)\Task\Task 6\bin\Debug\net5.0\ref\Task 6.dll
+D:\ITI\Object-Oriented Programming (OOP)\Task\Task 6\bin\Debug\net5.0\Task 6.pdb
+D:\ITI\Object-Oriented Programming (OOP)\Task\Task 6\obj\Debug\net5.0\Task 6.dll
+D:\ITI\Object-Oriented Programming (OOP)\Task\Task 6\obj\Debug\net5.0\ref\Task 6.dll
+D:\ITI\Object-Oriented Programming (OOP)\Task\Task 6\obj\Debug\net5.0\Task 6.pdb
+D:\ITI\Object-Oriented Programming (OOP)\Task\Task 6\obj\Debug\net5.0\Task 6.genruntimeconfig.cache
